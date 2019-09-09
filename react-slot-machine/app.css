@@ -1,0 +1,8 @@
+.MACHINE {
+    border:2px solid black;
+    background-color: pink;
+}
+
+.win {
+    color: green;
+}
