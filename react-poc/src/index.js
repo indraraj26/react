@@ -6,7 +6,6 @@ let fruit = choice(fruitList);
 console.log(`I'd like one ${fruit}, please.`);
 
 console.log(`Here you go : ${fruit}`);
-
 console.log('Delicious! May i have another?');
 
 let remaining = remove(fruitList, fruit);
